@@ -1,0 +1,1 @@
+Completed the task of Day2 - Created repository named "Devops", connected local repository to the repo on GitHub, created a new file in Devops/Git/Day-02.txt & added this content to it, pushed the local commit to the repo on GitHub
